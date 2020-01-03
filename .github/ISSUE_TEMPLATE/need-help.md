@@ -1,6 +1,6 @@
 ---
 name: Need Help
-about: Ask your questionshere so we can help you
+about: Ask your questions here so we can help you
 title: ''
 labels: ''
 assignees: ''
